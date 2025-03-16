@@ -1,0 +1,71 @@
+body {
+    background-image: url(https://i.postimg.cc/3NnzrtYs/photo-1569529465841-dfecdab7503b.jpg);
+     font-family: sans-serif;
+     padding: 20px;
+     
+}
+h1, h2, p {
+    text-align: center;
+}
+h1 h2 {
+    font-family: Impact, serif;
+}
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+}
+h2 {
+    font-size: 30px;
+    margin-top: 0;
+}
+.established {
+    font-family: italic;
+}
+.menu {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 800px
+}
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.drinks, .food {
+    text-align: left;
+    width: 50%;
+}
+.price {
+    text-align: right;
+    width: 50%;
+}
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+.bottom line {
+    margin-top: 25px;
+}
+a {
+    color: brown;
+}
+a:visited {
+    color: brown;
+}
+a:hover {
+    color: white;
+}
+a:active {
+    color: brown;
+}
+img {
+    display: block;
+    width: 80px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -25px;
+}
